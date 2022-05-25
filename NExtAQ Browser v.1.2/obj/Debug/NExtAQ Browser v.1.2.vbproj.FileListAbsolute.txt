@@ -1,0 +1,24 @@
+C:\Users\faris\AppData\Local\Temporary Projects\NExtAQ Browser v.1.2\bin\Debug\NExtAQ Browser v.1.2.exe.config
+C:\Users\faris\AppData\Local\Temporary Projects\NExtAQ Browser v.1.2\bin\Debug\NExtAQ Browser v.1.2.exe
+C:\Users\faris\AppData\Local\Temporary Projects\NExtAQ Browser v.1.2\bin\Debug\NExtAQ Browser v.1.2.pdb
+C:\Users\faris\AppData\Local\Temporary Projects\NExtAQ Browser v.1.2\bin\Debug\NExtAQ Browser v.1.2.xml
+C:\Users\faris\AppData\Local\Temporary Projects\NExtAQ Browser v.1.2\obj\Debug\NExtAQ_Browser_v._1._2.Form1.resources
+C:\Users\faris\AppData\Local\Temporary Projects\NExtAQ Browser v.1.2\obj\Debug\NExtAQ_Browser_v._1._2.Resources.resources
+C:\Users\faris\AppData\Local\Temporary Projects\NExtAQ Browser v.1.2\obj\Debug\NExtAQ Browser v.1.2.vbproj.GenerateResource.Cache
+C:\Users\faris\AppData\Local\Temporary Projects\NExtAQ Browser v.1.2\obj\Debug\NExtAQ Browser v.1.2.exe
+C:\Users\faris\AppData\Local\Temporary Projects\NExtAQ Browser v.1.2\obj\Debug\NExtAQ Browser v.1.2.xml
+C:\Users\faris\AppData\Local\Temporary Projects\NExtAQ Browser v.1.2\obj\Debug\NExtAQ Browser v.1.2.pdb
+C:\Users\faris\AppData\Local\Temporary Projects\NExtAQ Browser v.1.2\bin\Debug\NExtAQ Browser v.1.2.exe.manifest
+C:\Users\faris\AppData\Local\Temporary Projects\NExtAQ Browser v.1.2\bin\Debug\NExtAQ Browser v.1.2.application
+C:\Users\faris\AppData\Local\Temporary Projects\NExtAQ Browser v.1.2\obj\Debug\NExtAQ Browser v.1.2.TrustInfo.xml
+C:\Users\faris\AppData\Local\Temporary Projects\NExtAQ Browser v.1.2\obj\Debug\NExtAQ Browser v.1.2.exe.manifest
+C:\Users\faris\AppData\Local\Temporary Projects\NExtAQ Browser v.1.2\obj\Debug\NExtAQ Browser v.1.2.application
+F:\Sem.4\extra vs code\NExtAQ Browser v.1.2\NExtAQ Browser v.1.2\obj\Debug\NExtAQ_Browser_v._1._2.Form1.resources
+F:\Sem.4\extra vs code\NExtAQ Browser v.1.2\NExtAQ Browser v.1.2\obj\Debug\NExtAQ_Browser_v._1._2.Resources.resources
+F:\Sem.4\extra vs code\NExtAQ Browser v.1.2\NExtAQ Browser v.1.2\obj\Debug\NExtAQ Browser v.1.2.vbproj.GenerateResource.Cache
+F:\Sem.4\extra vs code\NExtAQ Browser v.1.2\NExtAQ Browser v.1.2\obj\Debug\NExtAQ Browser v.1.2.vbproj.CoreCompileInputs.cache
+F:\Sem.4\extra vs code\NExtAQ Browser v.1.2\NExtAQ Browser v.1.2\obj\Debug\NExtAQ Browser v.1.2.TrustInfo.xml
+F:\Sem.4\extra vs code\NExtAQ Browser v.1.2\NExtAQ Browser v.1.2\obj\Debug\NExtAQ Browser v.1.2.exe
+F:\Sem.4\extra vs code\NExtAQ Browser v.1.2\NExtAQ Browser v.1.2\obj\Debug\NExtAQ Browser v.1.2.xml
+F:\Sem.4\extra vs code\NExtAQ Browser v.1.2\NExtAQ Browser v.1.2\obj\Debug\NExtAQ Browser v.1.2.pdb
+F:\Sem.4\extra vs code\NExtAQ Browser v.1.2\NExtAQ Browser v.1.2\obj\Debug\NExtAQ Browser v.1.2.vbprojResolveAssemblyReference.cache
